@@ -1,0 +1,22 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Type here:" 5 times.(á¹º8¢ŠÕòç0
+W
+java:S1854"":Remove this useless assignment to local variable "weapon".(‚ÀüÅ8‹ÕÊòç0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½ßÖ•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇàÊÓüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ«°üÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äãá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹º
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÕ’úüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹º
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ö¶ğşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«ÄÈÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(á¹º
+H
+java:S1481""+Remove this unused "weapon" local variable.(‚ÀüÅ8¹Ìòç0
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÙÖ˜
+M
+java:S1128"1Remove this unused import 'weaponparts.magazine'.(ÌÖî,8»ÄÒòç0
